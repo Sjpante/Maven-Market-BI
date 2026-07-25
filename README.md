@@ -19,4 +19,4 @@
 ---
 
 ### 📄 Project Documentation
-* [Download / View Full Maven Market PDF Report](./Maven%20Market.pdf)
+* [View Full Maven Market PDF Report](./Maven%20Market.pdf)
