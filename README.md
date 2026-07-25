@@ -21,4 +21,4 @@ Key Business Insights & Highlights
    - Demographic Breakdown: Categorized transactions by income level and occupation
    - Top Customer Tracking: Identified top individual accounts
 
-# Use [Maven Market.pdf] for the dashboard preview
+[📄 Download / View Full Maven Market PDF Report](Maven_Market.pdf)
